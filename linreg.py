@@ -46,7 +46,7 @@ class LinearRegression:
                 theta[thetaDimension] = theta[thetaDimension] - corrections[thetaDimension]*(self.alpha/n)               
         return theta
 
-        return theta
+    
     
 
     def computeCost(self, X, y, theta):
