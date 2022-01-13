@@ -1,7 +1,3 @@
-'''
-    TEMPLATE FOR MACHINE LEARNING HOMEWORK
-    AUTHOR Eric Eaton, Chris Clingerman
-'''
 
 import numpy as np
 import matplotlib.pyplot as plt
